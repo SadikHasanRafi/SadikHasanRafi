@@ -1,21 +1,22 @@
 <h1 align="center">Sadik Hasan Rafi</h1>
 
-<h3 align="center">
-Backend Engineer (Node.js) • PERN Stack • Angular & React
-</h3>
+<p align="center">
+  <strong>Backend Engineer (Node.js)</strong> • PERN Stack • Angular & React
+</p>
 
 <p align="center">
-I design and build scalable backend systems, APIs, and production-ready web applications.<br/>
-Focused on performance, clean architecture, and real-world problem solving.
+  I design and build scalable backend systems, APIs, and production-ready web applications.<br/>
+  Focused on performance, clean architecture, and real-world problem solving.
 </p>
 
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&pause=1200&center=true&vCenter=true&width=520&lines=Backend-first+Engineer;Node.js+%7C+PostgreSQL+%7C+TypeScript;Clean+Architecture+%7C+Scalable+Systems;Always+learning%2C+always+building"
+    alt="Typing SVG"
   />
 </p>
 
----
+
 
 ## 💫 About Me
 
@@ -49,47 +50,67 @@ Focused on performance, clean architecture, and real-world problem solving.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity & Stats
 
 <p align="center">
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadikHasanRafi&theme=nord_dark"
+    alt="Profile Details"
   />
 </p>
 
 <p align="center">
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SadikHasanRafi&theme=nord_dark"
+    alt="Repos Per Language"
   />
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SadikHasanRafi&theme=nord_dark"
+    alt="Most Commit Language"
   />
 </p>
 
 <p align="center">
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SadikHasanRafi&theme=nord_dark"
+    alt="Stats"
   />
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SadikHasanRafi&theme=nord_dark&utcOffset=6"
+    alt="Productive Time"
+  />
+</p>
+
+
+
+---
+
+## 📅 Contribution Overview
+
+<p align="center">
+  <img
+    src="https://github.pumbas.net/api/contributions/SadikHasanRafi"
+    alt="GitHub Contribution Graph"
   />
 </p>
 
 ---
 
+---
+
 ## 🔥 Contribution Streak
 
-<div align="center" style="padding: 12px 0;">
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img
       src="https://github-readme-streak-stats-five-opal.vercel.app?user=SadikHasanRafi&theme=nord&border_radius=5.8&exclude_days=Fri%2CSat&card_width=525&card_height=210"
       alt="GitHub Streak"
     />
   </a>
-</div>
+</p>
 
 ---
 
 <p align="center">
-✨ Open to backend & full-stack opportunities • Let’s build scalable systems ✨
+✨ Open to backend & full-stack opportunities — let’s build scalable systems ✨
 </p>
