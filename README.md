@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Activity & Stats
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadikHasanRafi&theme=nord_dark"
     alt="Profile Details"
@@ -79,7 +79,7 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SadikHasanRafi&theme=nord_dark&utcOffset=6"
     alt="Productive Time"
   />
-</p>
+</p> -->
 
 
 
