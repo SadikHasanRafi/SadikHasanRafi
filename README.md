@@ -100,18 +100,18 @@
 
 ## 🔥 Contribution Streak
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats">
     <img
       src="https://github-readme-streak-stats-five-opal.vercel.app?user=SadikHasanRafi&theme=nord&border_radius=5.8&exclude_days=Fri%2CSat&card_width=525&card_height=210"
       alt="GitHub Streak"
     />
   </a>
-</p>
+</p> -->
 
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SadikHasanRafi" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SadikHasanRafi&theme=nord&border_radius=5.8&exclude_days=Fri%2CSat&card_width=525&card_height=210" alt="GitHub Streak" /></a>
 </p>
 
 ---
