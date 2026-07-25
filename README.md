@@ -87,12 +87,12 @@
 
 ## 📅 Contribution Overview
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github.pumbas.net/api/contributions/SadikHasanRafi"
     alt="GitHub Contribution Graph"
   />
-</p>
+</p> -->
 
 ---
 
