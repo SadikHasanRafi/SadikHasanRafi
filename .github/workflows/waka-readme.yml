@@ -63,7 +63,6 @@ jobs:
           # GitHub Analytics
           # ==========================
           SHOW_LOC_CHART: "true"
-
           # ==========================
           # Progress Bar
           # ==========================
