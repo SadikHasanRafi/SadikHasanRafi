@@ -24,3 +24,16 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "True"
+          SHOW_TITLE: "True"
+          SHOW_LOC_CHART: "True"
+
+
+          SHOW_TOTAL: "True"
+
+          TIME_RANGE: "last_30_days"
+          LANG_COUNT: "8"
+
+          BLOCKS: "⣿"
+          CODE_LANG: "txt"
+
+          IGNORED_LANGUAGES: "Binary YAML JSON TOML"
