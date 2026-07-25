@@ -8,17 +8,19 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-          SHOW_TITLE: true
-          TIME_RANGE: last_6_months
-          LANG_COUNT: 10
-          SHOW_TOTAL: true
-          SHOW_TIME: true
-          BLOCKS: █
-          STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: JSON YAML TOML
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LANGUAGE: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_COMMIT: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_SHORT_INFO: "True"
