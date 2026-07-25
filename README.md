@@ -114,6 +114,14 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SadikHasanRafi&theme=nord&border_radius=5.8&exclude_days=Fri%2CSat&card_width=525&card_height=210" alt="GitHub Streak" /></a>
 </p>
 
+
+
+## ⏱️ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ---
 
 <p align="center">
