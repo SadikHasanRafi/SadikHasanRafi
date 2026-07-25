@@ -3,24 +3,78 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
+    # Every day at 00:00 UTC
     - cron: "0 0 * * *"
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
+          # ==========================
+          # Required
+          # ==========================
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LANGUAGE: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_COMMIT: "True"
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "False"
-          SHOW_TIMEZONE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_SHORT_INFO: "True"
+
+          # ==========================
+          # General Stats
+          # ==========================
+          SHOW_TITLE: "true"
+          SHOW_SHORT_INFO: "true"
+          SHOW_PROFILE_VIEWS: "true"
+          SHOW_LINES_OF_CODE: "true"
+          SHOW_LOC_CHART: "true"
+
+          # ==========================
+          # Coding Stats
+          # ==========================
+          SHOW_LANGUAGE: "true"
+          SHOW_LANGUAGE_PER_REPO: "false"
+          SHOW_PROJECTS: "false"
+          SHOW_EDITORS: "true"
+          SHOW_OS: "true"
+          SHOW_TIMEZONE: "true"
+          SHOW_COMMIT: "true"
+          SHOW_DAYS_OF_WEEK: "true"
+
+          # ==========================
+          # Time
+          # ==========================
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
+          SHOW_MASKED_TIME: "false"
+
+          # ==========================
+          # Graph Customization
+          # ==========================
+          TIME_RANGE: "last_30_days"
+          LANG_COUNT: "10"
+          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
+          CODE_LANG: "txt"
+
+          # ==========================
+          # Filtering
+          # ==========================
+          STOP_AT_OTHER: "false"
+          IGNORED_LANGUAGES: "Binary YAML JSON TOML"
+
+          # ==========================
+          # README Section
+          # ==========================
+          SECTION_NAME: "waka"
+
+          # ==========================
+          # Commit
+          # ==========================
+          COMMIT_MESSAGE: "📊 Updated WakaTime stats"
+          TARGET_BRANCH: "main"
+          # TARGET_PATH: "README.md"
+
+          # Optional Commit Identity
+          # COMMITTER_NAME: "github-actions[bot]"
+          # COMMITTER_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+          # AUTHOR_NAME: "github-actions[bot]"
+          # AUTHOR_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
