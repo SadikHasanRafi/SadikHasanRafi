@@ -119,6 +119,23 @@
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 23 January 2026 - To: 24 July 2026
+
+Total Time: 528 hrs 32 mins
+
+JavaScript      237 hrs 43 mins       ███████████▒░░░░░░░░░░░░░   44.75 %
+TypeScript      223 hrs 44 mins       ██████████▓░░░░░░░░░░░░░░   42.12 %
+Prisma          13 hrs 44 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Python          10 hrs 42 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Bash            7 hrs 53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+CSS             4 hrs 59 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+HTML            4 hrs 34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Markdown        4 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Text            3 hrs 41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+```
+
 <!--END_SECTION:waka-->
 
 
