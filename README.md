@@ -119,9 +119,9 @@
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C345%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C356%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -166,46 +166,46 @@ Sunday                   129 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               33 hrs 41 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   74.37 % 
-Other                    2 hrs 50 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.28 % 
-PHP                      2 hrs 26 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.40 % 
-Prisma                   1 hr 10 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.59 % 
-Blade Template           1 hr 8 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.53 % 
+TypeScript               27 hrs 44 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   67.48 % 
+PHP                      3 hrs 1 min         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.35 % 
+Other                    2 hrs 57 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.18 % 
+Blade Template           1 hr 29 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.62 % 
+SQL                      1 hr 12 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.96 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 37 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.93 % 
-VS Code                  22 hrs 22 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.39 % 
-Agent                    9 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.35 % 
-Trae                     8 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.33 % 
+Claude Code              20 hrs 54 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.84 % 
+VS Code                  19 hrs 54 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.42 % 
+Agent                    9 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.39 % 
+Trae                     8 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.36 % 
 
 💻 Operating System: 
-Windows                  45 hrs 17 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  41 hrs 7 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 28 mins (67.29%)
+⏱ AI Coding Time: 27 hrs 25 mins (66.7%)
 
-✍️ 20,892 lines written by AI, 5,294 lines written by hand (79.78% AI-written)
+✍️ 18,075 lines written by AI, 5,388 lines written by hand (77.04% AI-written)
 
-🔤 18,377,811 Input Tokens, 2,859,562 Output Tokens
+🔤 8,608,580 Input Tokens, 2,353,344 Output Tokens
 
-💵 $427.07 Estimated AI Cost This Week
+💵 $318.41 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 343 AI Prompts
+🧠 45 AI Sessions, 281 AI Prompts
 
-Sonnet                   21,061 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   89.39 % 
-Opus                     2,500 lines         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.61 % 
+Sonnet                   18,359 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   88.01 % 
+Opus                     2,500 lines         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.99 % 
 Medium                   0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 Claude-Code              0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 Cursor                   0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.78% of written lines came from AI
-📚 Verbose Prompter — average 3,355 characters per prompt
+🤖 AI-Driven — 77.04% of written lines came from AI
+📚 Verbose Prompter — average 3,497 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 26.38% of changed lines were hand-edited
+🚀 High AI Trust — 24.48% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -213,7 +213,7 @@ Cursor                   0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/SadikHasanRafi/SadikHasanRafi/main/assets/bar_graph.png)
 
 
- Last Updated on 24 Aug 2026 01:44 UTC UTC
+ Last Updated on 25 Aug 2026 01:39 UTC UTC
 <!--END_SECTION:waka-->
 
 
